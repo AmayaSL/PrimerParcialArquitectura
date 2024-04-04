@@ -54,16 +54,16 @@ Run Producción:
 ## Variables de Entorno
 ```
 ###> CONFIG SERVER <####
-PORT=3100
-URL_SERVER=http:\\127.0.0.1:3100\
+PORT=
+URL_SERVER=
 ###> CONFIG SERVER <####
 
 ###> DB_CONNECTION ### 
-DB_URL_PG=postgres://postgres:1234@localhost:5432/prueba
+DB_URL_PG=
 ###< CONFIGURE SERVER ###
 
 ###> SECRET_KEY ###
-SECRET_KEY=passwordBasico203-*210ss3
+SECRET_KEY=
 ###< SECRET_KEY ###
 ```
 
