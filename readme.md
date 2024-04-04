@@ -28,6 +28,18 @@ La API permitira al usuario obtener y almacenar informacion correspondiente a pr
     npm install
 ```
 
+### Instalación nodemon
+
+```
+    npm -get install nodemon
+```
+
+### Instalación express
+
+```
+    npm install express
+```
+
 ## Tabla de contenido
 
 - Caracteristicas
